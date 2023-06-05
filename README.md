@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, meu nome é Matheus Alves
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-QSA)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Matheus-QSA/Matheus-QSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
